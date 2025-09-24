@@ -1,3 +1,3 @@
 # newagain
-just test
+just test\n
 how ya doin boi?
